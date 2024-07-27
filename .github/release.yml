@@ -10,6 +10,4 @@ changelog:
     - title: New Feature
       labels:
         - enhancement
-    - title: 
-      labels: 
-       - New Feature
+        - New Feature
