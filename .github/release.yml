@@ -7,7 +7,7 @@ changelog:
     authors:
       - octocat
   categories:
-    - title: New Feature
+    - title: Feature-Chromium
       labels:
         - enhancement
         - New Feature
