@@ -7,13 +7,9 @@ changelog:
     authors:
       - octocat
   categories:
-    - title: Breaking Changes 🛠
-      labels:
-        - Semver-Major
-        - breaking-change
     - title: New Feature
       labels:
         - enhancement
     - title: 
       labels: 
-        New Feature
+       - New Feature
