@@ -15,6 +15,7 @@ if __name__ == '__main__':
 
     print_hi('PyCharm Sample')
     print_hi('PyCharm Sample - 2')   
+    print_hi('PyCharm Example - 3')   
     print_hi('PyCharm Example - 4')   
     print_hi('PyCharm Example - 5')   
 
